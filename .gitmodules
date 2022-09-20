@@ -1,0 +1,3 @@
+[submodule "Docker-for-chef-Server"]
+	path = Docker-for-chef-Server
+	url = git@github.com:Johnjosh11/Docker-for-chef-Server.git
